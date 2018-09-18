@@ -1,0 +1,32 @@
+body {
+background: #c481fb;
+text-align: center;
+}
+#main {
+width: 1000px;
+height: 515px;
+background: #38f5be;
+margin: 25px auto;
+border: solid 2px #38f5be;
+padding: 10px;
+}
+h1 {
+text-align: center;
+font-family:"Courier New";
+font: 36pt;
+color: #F06261;
+}
+p {
+font-family:"Courier New";
+font-size: 24pt;
+text-align: center;
+color: #8D5151;
+text-decoration: none
+}
+a {
+color: inherit;
+text-decoration: inherit;
+}
+a:hover { 
+    background-color: red;
+}

@@ -1,0 +1,33 @@
+body {
+background: #c481fb;
+text-align: center;
+}
+#main {
+width: 1000px;
+height: 1450px;
+background: #38f5be;
+margin: 25px auto;
+border: solid 2px #38f5be;
+padding: 10px;
+}
+h1 {
+text-align: center;
+font-family:"Courier New";
+font: 18pt;
+color: #8D5151;
+}
+p {
+font-family:"Courier New";
+font-size: 24pt;
+text-align: center;
+color: #F06261;
+}
+a {
+font-family:"Courier New";
+font-size: 24pt;
+text-align: center;
+color: #8D5151;
+}
+a:hover { 
+    background-color: red;
+}
